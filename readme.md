@@ -46,7 +46,7 @@ Run data_and_model/output_entity.py
 Run train.py
 
 ## Data Example
-
+```
 {
 	"table_id": "1-1000181-1",
 	"phase": 1,
@@ -72,7 +72,7 @@ Run train.py
 	"bertindex_knowledge": [0, 0, 0, 0, 4, 0, 0, 1, 3],
 	"header_knowledge": [2, 0, 0, 2, 0, 1]
 }
-
+```
 ## Trained Model
 
 ADD LINK
