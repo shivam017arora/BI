@@ -13,7 +13,7 @@ Semantic parsing is the tasks of translating natural language to logic form. Map
 2. We use the match inf of all the table column name and question string to mark the column and produce a feature vector which is the same length to the table header.
 3. We design the whole BERT-based model and take the two feature vector above as external inputs.
 
-## Benchmark on WikiSQL
+## Benchmark on WikiSQL: https://github.com/salesforce/WikiSQL
 
 WikiSQL is a large semantic parsing dataset. It has 80654 natural language and corresponding SQL pairs. BERT is a very deep transformer-based model. It first pre-train on very large corpus using the mask language model loss and the next-sentence loss. And then we could fine-tune BERT on a variety of specific tasks like text classification, text matching and natural language inference and set new state-of-the-art performance on them.
 
