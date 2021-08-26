@@ -39,12 +39,13 @@ We also use three sub-model to predict the SELECT part, AGG part and WHERE part.
 1. Data: ADD LINK
 
 Download the data and put it at 'data_and_model' directory
+```
 Run data_and_model/output_entity.py
-
+```
 2. Train and Evaluate
-
+```
 Run train.py
-
+```
 ## Data Example
 ```
 {
