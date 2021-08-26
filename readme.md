@@ -1,5 +1,36 @@
 # Business Intelligence Tool with Search Based Analytics
 
+## What is Business Intelligence?
+
+With the continual generation of phenomenal amounts of data, structured and unstructured, organizations are inundated with information from varied sources stashed away in numerous data storage systems. Business intelligence (BI) combines business analytics, data mining, data visualization, data tools and infrastructure, and best practices to help organizations to make more data-driven decisions. 
+
+## Future of Business Intelligence
+
+Conversational Analytics: is a Natural Language Processing (NLP)-driven analytics solution that incorporates AI/ML technologies to transliterate data directed through chatbots or voice assistants and enable an organization to leverage market opportunities through insights from its source of large datasets. The efficacy of conversational analytics depends upon its capability to access data from multiple sources and make use of it in real-time.
+
+## Why is it better?
+
+1. The system should offer not only descriptive analysis, but predictive analysis as well using Machine Learning. 
+2. The system automatically presents important and meaningful insights to the user related to what they have searched on, without the user asking for a specific type of analysis using Machine Learning.
+3. The system presents a narrative to the user (written/spoken) alongside the visualization that describes the key insight. 
+4. The system returns a best-fit visualisation to the user wih the answer, and also allows the user to change and customise the visualisation. 
+5. The system suggests search terms and phrases as the user makes their entry, guiding them to complete their question faster.
+6. The system understands words that have similar meaning, such as "revenue" and "sales" and correctly give an answer regardless of which specific terminology is input.
+7. The system can be taught new words and learn how to properly translate them as part of a query.
+8. The system allows the user to clearly see the underlying query and data columns used to generate an answer. 
+9. The system allows the user to combine visualisations into a dashboard and share them with other users. 
+10. The system automatically organises the data to support the analysys that are run, even when new data is brought into the system.
+
+## Types of Analysis
+
+1. Aggregation and Group By: What were the total sales by region and department
+2. Filtering: What were sales in California?
+3. Top/Bottom: What were the top 10 selling brands last year?
+4. Time Periods: What were sales last year?
+5. Comparisons: What were the customer feedback of this year compared to last year?
+6. Trends: What were the weekly revenue in California?
+7. 'Why' analysis: Why did sales of electronics increase in Texas, last quarter?
+
 ## Problem
 
 Text-to-SQL is a task to translate a user’s query spoken in natural language into SQL automatically.
