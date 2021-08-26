@@ -61,6 +61,8 @@ Solution is to use execution-guided decoding. For example, you can't sum over a 
 
 ## Model Description
 
+Refrence: https://github.com/guotong1988/NL2SQL-RULE
+
 BERT-based model to solve the text-to-SQL problem: 
 
 Content Enhanced BERT-based Text-to-SQL Generation https://arxiv.org/abs/1910.07179
